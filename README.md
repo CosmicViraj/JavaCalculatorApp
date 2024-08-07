@@ -12,4 +12,5 @@ JavaCalculatorApp is a simple, intuitive, and user-friendly calculator applicati
 - **Toggle Sign (-/+) Button**: Toggles the sign of the number entered.
 - **Responsive Interface**: A visually appealing and easy-to-use interface with buttons that are clearly labeled and accessible.
 
+![Calculator Screenshot](https://github.com/CosmicViraj/JavaCalculatorApp/blob/main/Screenshot%202024-08-07%20141128.png)
 
